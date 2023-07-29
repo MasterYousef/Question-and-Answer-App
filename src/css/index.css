@@ -1,0 +1,14 @@
+.font{
+    font-family: "Almarai",sans-serif;
+    font-size: 20px;
+}
+body{
+    background-color: #eee;
+}
+input{
+    width: 75%; 
+    border: 1px rgb(127, 223, 255) solid;
+}
+input:focus{
+    outline: solid rgb(19, 97, 255) 2px;
+}
